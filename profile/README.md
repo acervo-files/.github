@@ -10,7 +10,7 @@ government disclosures to court filings to scientific records.
 
 **Acervo Engine** — the open framework
 - Source adapter pattern, OCR cascade, hybrid full-text + semantic search
-- Source available under BSL (reverts to OSS after 4 years)
+- Source available under BSL
 - Built so anyone can verify how documents are obtained and processed
 
 **Acervo Files** — the commercial application
