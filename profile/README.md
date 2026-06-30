@@ -16,8 +16,8 @@ government disclosures to court filings to scientific records.
 **Acervo Files** — the commercial application
 - Polished desktop app that ships maintained Collections of curated
   archives, OCR + AI summaries, hybrid search
-- First Collections at launch: declassified government records
-  (US PURSUE, FBI Vault)
+- First Collections at launch: U.S. government disclosures
+  (PURSUE, FBI Vault, etc)
 - Future Collections: FOIA disclosures, court records, others
 
 ## Source adapters
